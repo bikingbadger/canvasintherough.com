@@ -1,0 +1,19 @@
+{
+  "name": "canvasintherough.com",
+  "version": "1.0.0",
+  "description": "Canvas in the Rough, blog about my journey in art",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikingbadger/canvasintherough.com.git"
+  },
+  "author": "Hilton Meyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bikingbadger/canvasintherough.com/issues"
+  },
+  "homepage": "https://github.com/bikingbadger/canvasintherough.com#readme"
+}
