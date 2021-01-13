@@ -4,7 +4,7 @@
   "description": "Canvas in the Rough, blog about my journey in art",
   "main": "index.html",
   "scripts": {
-    "dev": "eleventy --serve",
+    "serve": "eleventy --serve",
     "build": "eleventy"
   },
   "repository": {
