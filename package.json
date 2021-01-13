@@ -1,0 +1,23 @@
+{
+  "name": "canvasintherough.com",
+  "version": "1.0.0",
+  "description": "Canvas in the Rough, blog about my journey in art",
+  "main": "index.html",
+  "scripts": {
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikingbadger/canvasintherough.com.git"
+  },
+  "author": "Hilton Meyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bikingbadger/canvasintherough.com/issues"
+  },
+  "homepage": "https://github.com/bikingbadger/canvasintherough.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
