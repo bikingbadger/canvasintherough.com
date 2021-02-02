@@ -1,0 +1,9 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-article
+---
+<h2>{{ title }}</h2>
+
+{{ content | safe }}
+
+<footer >Created on {{ page.date.toDateString() }} - Last updated {{ updated.toDateString() }}</footer>
